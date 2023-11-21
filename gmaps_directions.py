@@ -5,7 +5,7 @@ from datetime import datetime
 import urllib.error, urllib.parse, urllib.request
 import ezgmail, os
 
-API_KEY = 'AIzaSyDDCQZAUgunU7Ud_2v6jAhSx3taBCy0_u0'
+API_KEY = ''
 
 request_url = ('https://maps.googleapis.com/maps/api/directions/json'+
     '?departure_time=now'+
