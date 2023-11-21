@@ -13,10 +13,6 @@ request_url = ('https://maps.googleapis.com/maps/api/directions/json'+
     '&destination=242+Ridge+Road+Marshfield+MA'+
     '&key='+API_KEY)
 
-#One line key code for URL:
-#https://maps.googleapis.com/maps/api/directions/json?departure_time=now&origin=225+Presidential+Way+Woburn+MA&destination=242+Ridge+Road+Marshfield+MA&key=AIzaSyDDCQZAUgunU7Ud_2v6jAhSx3taBCy0_u0
-
-
 def send_email(traffic_duration, route):
     # Confirm the Trip summary 
     email_body = (route + ' now takes ' + traffic_duration)
