@@ -1,0 +1,321 @@
+geocoded_waypoints	
+	0	{…}
+	1	{…}
+routes	
+	0	
+	bounds	{…}
+	copyrights	"Map data ©2023 Google"
+	legs	
+		0	
+			distance	
+				text	"45.2 mi"
+				value	72747
+			duration	
+				text	"57 mins"
+				value	3400
+			duration_in_traffic	
+				text	"1 hour 1 min"
+				value	3643
+			end_address	"242 Ridge Rd, Marshfield, MA 02050, USA"
+			end_location	
+				lat	42.1277535
+				lng	-70.68741229999999
+			start_address	"225 Presidential Way, Woburn, MA 01801, USA"
+			start_location	
+				lat	42.5227455
+				lng	-71.1395813
+			steps	
+				0	
+				distance	
+				text	"167 ft"
+				value	51
+				duration	
+				text	"1 min"
+				value	18
+				end_location	
+				lat	42.5229882
+				lng	-71.13905869999999
+				html_instructions	'Head <b>northeast</b><div style="font-size:0.9em">Restricted usage road</div>'
+				polyline	
+				points	"efpbGjmeqLo@gB"
+				start_location	
+				lat	42.5227455
+				lng	-71.1395813
+				travel_mode	"DRIVING"
+				1	
+				distance	
+				text	"387 ft"
+				value	118
+				duration	
+				text	"1 min"
+				value	26
+				end_location	
+				lat	42.5220722
+				lng	-71.1388194
+				html_instructions	'Turn <b>right</b><div style="font-size:0.9em">Restricted usage road</div>'
+				maneuver	"turn-right"
+				polyline	
+				points	"ugpbGbjeqLlAaAPMFCHCL?TBPHDHHN"
+				start_location	
+				lat	42.5229882
+				lng	-71.13905869999999
+				travel_mode	"DRIVING"
+				2	
+				distance	
+				text	"322 ft"
+				value	98
+				duration	
+				text	"1 min"
+				value	21
+				end_location	
+				lat	42.5213557
+				lng	-71.13855319999999
+				html_instructions	'Turn <b>left</b> toward <b>Presidential Way</b><div style="font-size:0.9em">Restricted usage road</div>'
+				maneuver	"turn-left"
+				polyline	
+				points	"}apbGrheqLF?JBHF@?JFLFD@B?NABAHCJKJS@APi@"
+				start_location	
+				lat	42.5220722
+				lng	-71.1388194
+				travel_mode	"DRIVING"
+				3	
+				distance	
+				text	"0.2 mi"
+				value	380
+				duration	
+				text	"1 min"
+				value	60
+				end_location	
+				lat	42.518167
+				lng	-71.13867379999999
+				html_instructions	"Turn <b>right</b> onto <b>Presidential Way</b>"
+				maneuver	"turn-right"
+				polyline	
+				points	"o}obG|feqLj@`@lBxARNLFJH…J@NARCTE|@WpA_@lA_@nBk@"
+				start_location	
+				lat	42.5213557
+				lng	-71.13855319999999
+				travel_mode	"DRIVING"
+				4	
+				distance	
+				text	"0.2 mi"
+				value	337
+				duration	
+				text	"1 min"
+				value	39
+				end_location	
+				lat	42.5195634
+				lng	-71.1352477
+				html_instructions	"Turn <b>left</b> onto the <b>I-93</b> ramp to <b>Concorde NH</b>/<wbr/><b>Boston</b>/<wbr/><b>I-95</b>"
+				maneuver	"ramp-left"
+				polyline	
+				points	"qiobGtgeqLTEGc@w@{BISIU]aA[_AGMK]EKCIcAwCKYo@eB"
+				start_location	
+				lat	42.518167
+				lng	-71.13867379999999
+				travel_mode	"DRIVING"
+				5	
+				distance	
+				text	"12.6 mi"
+				value	20205
+				duration	
+				text	"13 mins"
+				value	799
+				end_location	
+				lat	42.3593851
+				lng	-71.0523058
+				html_instructions	"Keep <b>right</b> at the fork, follow signs for <b>I-93 S</b>/<wbr/><b>Boston</b>/<wbr/><b>I-95</b> and merge onto <b>I-93 S</b>"
+				maneuver	"fork-right"
+				polyline	
+				points	"grobGhrdqLGc@G[Ee@CWAO?G…`@a@LI\\SFEFCFCNGZI^IHC"
+				start_location	
+				lat	42.5195634
+				lng	-71.1352477
+				travel_mode	"DRIVING"
+				6	
+				distance	
+				text	"10.0 mi"
+				value	16130
+				duration	
+				text	"12 mins"
+				value	727
+				end_location	
+				lat	42.23128029999999
+				lng	-71.0233697
+				html_instructions	"Keep <b>left</b> to stay on <b>I-93 S</b>"
+				maneuver	"keep-left"
+				polyline	
+				points	"eipaG|ktpLBAJCVE`@I@A`@K…t@@z@@`@@^?lA@hABl@?n@@"
+				start_location	
+				lat	42.3593851
+				lng	-71.0523058
+				travel_mode	"DRIVING"
+				7	
+				distance	
+				text	"0.4 mi"
+				value	593
+				duration	
+				text	"1 min"
+				value	24
+				end_location	
+				lat	42.2268367
+				lng	-71.02012119999999
+				html_instructions	"Take exit <b>7</b> on the <b>left</b> for <b>MA-3 S</b> toward <b>Cape Cod</b>"
+				maneuver	"ramp-left"
+				polyline	
+				points	"ohw`G`wnpL^G\\?VAT?PAD?P…DK?AN]HQDKBENc@FOBGFQ@G"
+				start_location	
+				lat	42.23128029999999
+				lng	-71.0233697
+				travel_mode	"DRIVING"
+				8	
+				distance	
+				text	"0.3 mi"
+				value	420
+				duration	
+				text	"1 min"
+				value	16
+				end_location	
+				lat	42.2265641
+				lng	-71.0152248
+				html_instructions	"Keep <b>left</b> to continue toward <b>MA-3 S</b>"
+				maneuver	"keep-left"
+				polyline	
+				points	"wlv`GvbnpLHWFO@GDM@GHWH]…c@CSE]?ACYCMCQEYCSIa@CS"
+				start_location	
+				lat	42.2268367
+				lng	-71.02012119999999
+				travel_mode	"DRIVING"
+				9	
+				distance	
+				text	"15.8 mi"
+				value	25348
+				duration	
+				text	"15 mins"
+				value	890
+				end_location	
+				lat	42.1076272
+				lng	-70.7662909
+				html_instructions	"Continue onto <b>MA-3 S</b>"
+				polyline	
+				points	"_kv`GbdmpLEMEYGWEOAIEOKe…k@`C}Dj@{@h@{@FIVi@v@qA"
+				start_location	
+				lat	42.2265641
+				lng	-71.0152248
+				travel_mode	"DRIVING"
+				10	
+				distance	
+				text	"1.8 mi"
+				value	2840
+				duration	
+				text	"4 mins"
+				value	250
+				end_location	
+				lat	42.1053994
+				lng	-70.7393593
+				html_instructions	'Take exit <b>27</b> to merge onto <b>MA-139 E</b>/<wbr/><b>Church St</b> toward <b>Marshfield</b><div style="font-size:0.9em">Continue to follow MA-139 E</div><div style="font-size:0.9em">Pass by Bank of America (with Drive-thru ATM) (on the left in 0.9 mi)</div>'
+				maneuver	"ramp-right"
+				polyline	
+				points	"uc_`Ghp|nLLAf@]BAJEFADCF…AF]FsALwDVkCDa@TiBHm@BQ"
+				start_location	
+				lat	42.1076272
+				lng	-70.7662909
+				travel_mode	"DRIVING"
+				11	
+				distance	
+				text	"1.3 mi"
+				value	2101
+				duration	
+				text	"3 mins"
+				value	177
+				end_location	
+				lat	42.1115111
+				lng	-70.7163569
+				html_instructions	"Turn <b>left</b> onto <b>Furnace St</b>"
+				maneuver	"turn-left"
+				polyline	
+				points	"wu~_G~gwnLAAMGQGEECCCACC…?S@[BYB_@F[FYFWH]Ty@ZeA"
+				start_location	
+				lat	42.1053994
+				lng	-70.7393593
+				travel_mode	"DRIVING"
+				12	
+				distance	
+				text	"0.8 mi"
+				value	1312
+				duration	
+				text	"2 mins"
+				value	96
+				end_location	
+				lat	42.1201909
+				lng	-70.70840179999999
+				html_instructions	"Turn <b>left</b> onto <b>Ferry St</b>"
+				maneuver	"turn-left"
+				polyline	
+				points	"}{_`GfxrnLe@k@II]_@i@c@M…WGQAEGQM[O_@Yc@CE_@e@KQ"
+				start_location	
+				lat	42.1115111
+				lng	-70.7163569
+				travel_mode	"DRIVING"
+				13	
+				distance	
+				text	"1.2 mi"
+				value	1986
+				duration	
+				text	"2 mins"
+				value	135
+				end_location	
+				lat	42.1321618
+				lng	-70.6944182
+				html_instructions	"Turn <b>right</b> to stay on <b>Ferry St</b>"
+				maneuver	"turn-right"
+				polyline	
+				points	"era`GnfqnLYa@W[ACQWGIIMG…O}@Qs@UoAg@qAg@qBw@qDsA"
+				start_location	
+				lat	42.1201909
+				lng	-70.70840179999999
+				travel_mode	"DRIVING"
+				14	
+				distance	
+				text	"0.2 mi"
+				value	397
+				duration	
+				text	"1 min"
+				value	36
+				end_location	
+				lat	42.1310926
+				lng	-70.6898241
+				html_instructions	"Turn <b>right</b> onto <b>Bayberry Rd</b>"
+				maneuver	"turn-right"
+				polyline	
+				points	"_}c`GbonnLh@oDf@gDf@eDRmAL{@Jm@Ly@PiABQD]Bm@"
+				start_location	
+				lat	42.1321618
+				lng	-70.6944182
+				travel_mode	"DRIVING"
+				15	
+				distance	
+				text	"0.3 mi"
+				value	431
+				duration	
+				text	"1 min"
+				value	86
+				end_location	
+				lat	42.1277535
+				lng	-70.68741229999999
+				html_instructions	'Turn <b>right</b> onto <b>Ridge Rd</b><div style="font-size:0.9em">Destination will be on the right</div>'
+				maneuver	"turn-right"
+				polyline	
+				points	"ivc`GjrmnLPG@Al@{@rAsBR_…JGf@QjAe@bBm@tBy@~Am@VI"
+				start_location	
+				lat	42.1310926
+				lng	-70.6898241
+				travel_mode	"DRIVING"
+traffic_speed_entry	[]
+via_waypoint	[]
+overview_polyline	
+points	"efpbGjmeqLo@gBlAaAXQl@?`An@b@Ph@SLUPi@j@`@`ChBXPl@HvBc@dHqBsAiEgDuJeAkEGeALeB`AaCjH_H~BqCnGqFdGkFvO_NhPqNhMwKfIwF~DuBrGaCbLiCtLs@dSa@xPWhZe@|IWzIeAhIoBtJcEzSqMbZgRte@mZ~JoG|LyG|JoCbJw@dJHvGx@~Y|Fz]|G`J`@bN_An`@uI`MmCdIg@hIp@vIrAl`@p@~b@rChh@_A`GaA~DaBhJaHl]cZ`VaTdO_SrN}SfLiOnImHdHeJnIsLxDmEjCuBdHmC`Ha@`M?lDUnDaAnIeFlGkFbFaHvDwHtIyPbJaOlOcRnLiMdKcJnG_JjAaC~A}D~AyDrCoFvAkApBo@jCi@zIyBnEBxAf@dDvDzFvLbEfRvB|DlBjAjCp@|JxB`IlBbSnFjWpKfJ`EjGzBxCRvAIlEcBdEeDvF_F|FuEt^m\\xIaIlJgG~WeNfI}AvGBvGpAhT~GjMxCxG?fDm@`DoA|G}FtPsRvD{BvLeFhTaJhO_GxNyCtGmAlDU`Hd@pHtCbg@l]fIrFhCjApE|@`EFhD]fFeBhRiKdUcM~NgI|l@a]pI_DtLmBnMcCjDeBtCeC~B{CzBsEjD{MjDwNzBkFrByCrIiJbGcF`DoAdFw@zTgBhR?nG_@bFyBdEmEvBcEnBcHj@aIo@mKiFeYQgFTgG~AcItF{KzFgFbLcGhOyInMkNtDqCbE}AdDe@tK]zLg@nFiAlEoBjDcCtFmG|ByDjEqMdCwNdHcc@~QsiArDaSfD{LvLac@`GwYlEiU|BqI`GwNtEgJxHoZvBsOpA_PpBuT~AiHbEqL|H_UpIcUlKgR`JwLz^mf@fFqH`GqKrJuVrTux@z`@{zAxIqd@jG_i@~AyPhByN|Go^pJm]zD}Lt[q|@`O{]|g@{hAbr@}zA~Wal@fF_NfNob@pQ_j@zJ{U`Zeg@|`@kp@lBqB\\MdACv@f@`@jAAtBo@|BaAjAaAV{@Io@]g@sCY}FRaLbAyGpCeUjAsIPuFIuV~@mZ~Aid@`AoMAiAm@o@JqGa@mGcD}MeBmMcGyQaE}L{BaSaBaKuAyDgDiGc@oE`A{FZeAe@k@g@i@sA}@eHyB{HiCeDgC_E{AmGOiBw@cBiGZyFcAmFiEiHIoF_@_FqByR{AsEoEqImAoD{@u@qEiA{AoAsByCwByBkBe@uAFaDPaFo@sGwBcHkCpAwItA}Ih@sDTu@n@}@fC{DbFmBlFqB"
+summary	"I-93 S and MA-3 S"
+warnings	[]
+waypoint_order	[]
+status	"OK"

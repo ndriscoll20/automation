@@ -14,13 +14,20 @@ request_url = ('https://maps.googleapis.com/maps/api/directions/json'+
     '&key='+API_KEY)
 
 def send_email(traffic_duration, route):
+    os.chdir(r'~/python/automation/credentials.json')
     # Confirm the Trip summary 
     email_body = (route + ' now takes ' + traffic_duration)
     ezgmail.send('ndriscoll20@gmail.com', 'Traffic notification', email_body)
     # Sleep now through the end of the time period so we don't send another notification until tomorrow
     time.sleep(12000)
 
-if __name__ == "__main__":
+def test_email():
+    os.chdir(r'~/python/automation/credentials.json')
+    email_body = 'Testing sending emails with python'
+    ezgmail.send('ndriscoll20@gmail.com', 'Test Numero Uno', email_body)
+
+
+def main():
     while True: 
         # Check every 5 mins
         time.sleep(300)
@@ -55,7 +62,9 @@ if __name__ == "__main__":
                 dt = datetime.datetime(traffic_duration, '%H hour %M min')
                 send_email(traffic_duration, route)
 
-            
+if __name__ == "__main__":
+    main() 
+    test_email()
 
             
             
